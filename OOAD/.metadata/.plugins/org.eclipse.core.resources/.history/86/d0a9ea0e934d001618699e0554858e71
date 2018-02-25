@@ -1,0 +1,11 @@
+package com.techlabs.lsv.violation;
+
+public class Square extends Rectangle {
+
+	public Square(int size) {
+		super(size,size);	
+	}
+	
+	
+	
+}

@@ -1,0 +1,17 @@
+package com.techlabs.observer;
+
+import javax.swing.JButton;
+
+public class WelcomeFrame {
+
+	private final JButton notifyBtn;
+	
+	public WelcomeFrame() {
+		this.notifyBtn.show();
+		
+		notifyBtn.addActionListener(new EmailNotificationHandler());
+		notifyBtn.addActionListener(new SMSNotificationHandler());
+		
+	}
+	
+}

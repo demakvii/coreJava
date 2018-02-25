@@ -1,0 +1,29 @@
+package com.techlabs.set;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class TestSet {
+
+	public static void main(String[] args) {
+		Set<Integer> numbers;
+		
+		//Ordered Collections
+		
+		numbers = new HashSet<Integer>();
+		numbers.add(20);
+		numbers.add(30);
+		numbers.add(20);
+		numbers.add(100);
+		display(numbers);
+
+
+	}
+
+	private static void display(Set<Integer> numbers) {
+		for (Integer integer : numbers) {
+			System.out.println(integer);
+		}
+	}
+
+}

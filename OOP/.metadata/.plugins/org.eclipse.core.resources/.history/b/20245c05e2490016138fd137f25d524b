@@ -1,0 +1,23 @@
+package com.techlabs.set.lineitem;
+
+import java.util.Set;
+import java.util.TreeSet;
+
+public class TestLineItem {
+	public static void main(String[] args) {
+		Set<LineItem> items;
+		items = new TreeSet<LineItem>();
+
+		items.add(new LineItem(1, "Football", 1, 100));
+		items.add(new LineItem(1, "Football", 1, 100));
+		items.add(new LineItem(2, "Cricket ball", 1, 300));
+		display(items);
+	}
+
+	private static void display(Set<LineItem> items) {
+		for (LineItem lineItem : items) {
+			System.out.println(lineItem.getId() + ":" + lineItem.getName()
+					+ ":" + lineItem.calcTotalPrice());
+		}
+	}
+}

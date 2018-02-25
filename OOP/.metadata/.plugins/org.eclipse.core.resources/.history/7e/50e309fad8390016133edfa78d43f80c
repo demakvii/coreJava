@@ -1,0 +1,22 @@
+package com.techlabs.man.test;
+
+public class ManTest {
+
+	public static void main(String[] args) {
+		
+		manTest();
+		boyTest();
+		manBoyTest();
+	}
+
+	private static void boyTest() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private static void manTest() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

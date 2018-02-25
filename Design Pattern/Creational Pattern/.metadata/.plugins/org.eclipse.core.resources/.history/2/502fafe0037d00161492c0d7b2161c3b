@@ -1,0 +1,26 @@
+package com.techlabs.user;
+
+public class User {
+	private final String fName; //required
+	private final String lName; //required
+	private final int age;	//optional		
+	private final String address; //optional
+	
+	public static class UserBuilder{
+		private final String fName;
+		private final String lName; 
+		private int age;		
+		private String address; 
+		
+		public UserBuilder(String fName,String lName) {
+			// TODO Auto-generated constructor stub
+			this.fName = fName;
+			this.lName = lName;
+		}
+		
+		public UserBuilder age(int age){
+			this.age = age;
+			return this;
+		}
+	}
+}

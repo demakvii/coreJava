@@ -1,0 +1,13 @@
+package com.techlabs.map;
+
+import java.util.Map;
+
+public class TestMap {
+
+	public static void main(String[] args) {
+		
+		Map <Integer,Integer> numbers;
+		
+	}
+
+}

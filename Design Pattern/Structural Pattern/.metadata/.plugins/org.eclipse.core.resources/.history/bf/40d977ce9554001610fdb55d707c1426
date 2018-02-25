@@ -1,0 +1,20 @@
+package com.techlabs.composite;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Group implements IGraphicObject {
+
+	List <IGraphicObject> list;
+	
+	public Group() {
+		list = new ArrayList<IGraphicObject>();
+	}
+	
+	@Override
+	public void draw() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

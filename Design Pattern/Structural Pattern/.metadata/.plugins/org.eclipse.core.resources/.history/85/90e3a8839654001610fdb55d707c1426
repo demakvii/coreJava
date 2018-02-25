@@ -1,0 +1,11 @@
+package com.techlabs.composite.test;
+
+import com.techlabs.composite.Group;
+
+public class TestMain {
+
+	public static void main(String[] args) {
+		Group root = new Group();
+	}
+
+}

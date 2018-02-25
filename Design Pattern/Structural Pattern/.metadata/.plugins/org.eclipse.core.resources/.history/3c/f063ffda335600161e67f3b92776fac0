@@ -1,0 +1,6 @@
+package com.techlabs.decorator.test;
+
+public class Snippet {
+	int transparencyValue
+}
+

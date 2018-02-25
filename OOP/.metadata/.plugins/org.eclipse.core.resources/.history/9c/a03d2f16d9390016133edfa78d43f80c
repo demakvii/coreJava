@@ -1,0 +1,29 @@
+package com.techlabs.man.test;
+
+public class ManTest {
+
+	public static void main(String[] args) {
+		
+		manTest();
+		boyTest();
+		manBoyTest();
+		polymorphismTest();
+	}
+
+	private static void polymorphismTest() {
+		
+	}
+
+	private static void manBoyTest() {
+		
+	}
+
+	private static void boyTest() {
+		
+	}
+
+	private static void manTest() {
+		
+	}
+
+}

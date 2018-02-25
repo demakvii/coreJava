@@ -1,0 +1,20 @@
+package com.techlabs.lsv.violation.test;
+
+import com.techlabs.lsv.violation.Rectangle;
+
+public class TestRectangle {
+	public static void main(String[] args) {
+
+		Rectangle rect = new Rectangle(10, 20);
+		shouldNot_ChangeWidthWhenHeightIsChanged(x);
+	}
+
+	private static void shouldNot_ChangeWidthWhenHeightIsChanged(Rectangle x) {
+		int currWidth = x.getWidth();
+		
+		x.setHeight(10);
+		System.out.println("Current Width:"+currWidth);
+		System.out.println("Actual Width:"+x.getWidth());
+		
+	}
+}

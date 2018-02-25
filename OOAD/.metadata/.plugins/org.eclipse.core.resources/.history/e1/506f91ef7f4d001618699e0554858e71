@@ -1,0 +1,17 @@
+package com.techlabs.violation;
+
+public class Invoice {
+	private int id;
+	private String description;
+	private double cost;
+	private double discount;
+	
+	
+	public Invoice(int id,String decription,double cost,double discount) {
+		
+		this.id = id;
+		this.description = decription;
+		this.cost = cost;
+		this.discount = discount;
+	}
+}

@@ -1,0 +1,10 @@
+package com.techlabs.composition;
+
+import java.awt.List;
+import java.util.Date;
+
+public class Order {
+	private final int id;
+	private Date date;
+	List <LineItem> items;
+}

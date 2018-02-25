@@ -1,0 +1,12 @@
+package com.techlabs.user;
+
+public class User {
+	private final String fName; //required
+	private final String lName; //required
+	private final int age;	//optional		
+	private final String address; //optional
+	
+	public static class UserBuilder{
+		
+	}
+}

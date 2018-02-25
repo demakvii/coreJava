@@ -1,0 +1,10 @@
+package com.techlabs.man.test;
+
+public class ManTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

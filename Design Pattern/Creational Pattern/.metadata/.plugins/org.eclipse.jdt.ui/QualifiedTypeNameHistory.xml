@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.techlabs.movable.Bike"/>
+<fullyQualifiedTypeName name="com.techlabs.movable.Truck"/>
+<fullyQualifiedTypeName name="com.techlabs.movable.MovableType"/>
+<fullyQualifiedTypeName name="com.techlabs.movable.IMovable"/>
+<fullyQualifiedTypeName name="com.techlabs.factory.MovableFactory"/>
+<fullyQualifiedTypeName name="com.techlabs.manager.ManagerService"/>
+<fullyQualifiedTypeName name="java.beans.PropertyChangeEvent"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="com.techlabs.factory.IAutoFactory"/>
+<fullyQualifiedTypeName name="com.techlabs.factory.IAutoMobile"/>
+<fullyQualifiedTypeName name="com.techlabs.factory.IAutoMobileFactory"/>
+<fullyQualifiedTypeName name="com.techlabs.user.User"/>
+<fullyQualifiedTypeName name="com.techlabs.user.User.UserBuilder"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+</qualifiedTypeNameHistroy>

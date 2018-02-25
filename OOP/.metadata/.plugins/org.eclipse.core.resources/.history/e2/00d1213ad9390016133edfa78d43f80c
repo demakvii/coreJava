@@ -1,0 +1,36 @@
+package com.techlabs.man.test;
+
+import com.techlabs.man.Boy;
+import com.techlabs.man.Man;
+
+public class ManTest {
+
+	public static void main(String[] args) {
+		
+		manTest();
+		boyTest();
+		manBoyTest();
+		polymorphismTest();
+	}
+
+	private static void polymorphismTest() {
+		
+	}
+
+	private static void manBoyTest() {
+		
+	}
+
+	private static void boyTest() {
+		Boy boy = new Boy();
+		boy.play();
+	}
+
+	private static void manTest() {
+		Man man = new Man();
+		man.read();
+		man.wish();
+		man.play();
+	}
+
+}

@@ -1,0 +1,7 @@
+package com.techlabs.ocp.violation;
+
+public class FixedDeposit {
+	private int deposit;
+	private int year;
+	private FestivalType festival;
+}

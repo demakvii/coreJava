@@ -1,0 +1,13 @@
+package com.techlabs.violation.test;
+
+import com.techlabs.violation.Invoice;
+
+public class TestInvoice {
+
+	public static void main(String[] args) {
+
+		Invoice invoice = new Invoice(1, "Footbal", 400, 50);
+		invoice.print();
+	}
+
+}

@@ -1,0 +1,16 @@
+package com.techlabs.composite.test;
+
+import com.techlabs.composite.Circle;
+import com.techlabs.composite.Group;
+import com.techlabs.composite.Triangle;
+
+public class TestMain {
+
+	public static void main(String[] args) {
+		Group root = new Group();
+		root.add(new Triangle());
+		root.add(new Circle());
+		
+	}
+
+}

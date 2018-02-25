@@ -1,0 +1,16 @@
+package com.techlabs.observer.test;
+
+import java.awt.Frame;
+
+import javax.swing.JButton;
+
+import com.techlabs.observer.WelcomeFrame;
+
+public class TestMain {
+	public static void main(String[] args) {
+		JFrame frame = new Frame("Welcome Frame");
+		 JButton notifyBtn = new JButton("Notify"); 
+		WelcomeFrame welcomeFrame = new WelcomeFrame(notifyBtn);
+		
+	}
+}

@@ -1,0 +1,5 @@
+package com.techlabs.account;
+
+public abstract class Account {
+
+}

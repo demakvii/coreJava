@@ -1,0 +1,7 @@
+package com.techlabs.observer;
+
+import java.awt.event.ActionListener;
+
+public class EmailNotificationHandler implements ActionListener{
+
+}

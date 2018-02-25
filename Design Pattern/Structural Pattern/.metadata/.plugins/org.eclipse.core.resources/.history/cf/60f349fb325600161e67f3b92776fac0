@@ -1,0 +1,15 @@
+package com.techlabs.decorator;
+
+public class ColorDecorator implements IShape {
+	IShape baseShape;
+	
+	public ColorDecorator(IShape baseShape) {
+		
+	}
+	@Override
+	public void draw() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

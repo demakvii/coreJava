@@ -1,0 +1,11 @@
+package com.techlabs.set.lineitem;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class TestLineItem {
+	public static void main(String[] args) {
+		Set <LineItem> items ;
+		items = new HashSet<LineItem>();
+	}
+}

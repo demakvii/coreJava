@@ -1,0 +1,14 @@
+package com.techlabs.account;
+
+public class Account {
+	private final int accNumber;
+	private final String name;
+	private float balance;
+
+	public Account(int accNumber,String name,float balance) {
+		this.accNumber = accNumber;
+		this.name = name;
+		this.balance = balance;
+	}
+
+}

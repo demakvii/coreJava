@@ -1,0 +1,11 @@
+package com.techlabs.refactored;
+
+public class InvoicePrint {
+	
+	
+	
+	public void print(Invoice invoice) {
+		System.out.println("Id: "+invoice.getId()+" Description: "+invoice.getDescription()1+
+				" Total cost: "+invoice.calcTotal());
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;LineItem.java&apos; to &apos;genric-collection-app/src/com.techlabs.set.lineitem&apos;&#x0D;&#x0A;- Original project: &apos;collection-app&apos;&#x0D;&#x0A;- Destination element: &apos;genric-collection-app/src/com.techlabs.set.lineitem&apos;&#x0D;&#x0A;- Original element: &apos;com.techlabs.collection.LineItem.java&apos;" description="Copy compilation unit" destination="=genric-collection-app/src&lt;com.techlabs.set.lineitem" element1="/src&lt;com.techlabs.collection{LineItem.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1468482074396" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,24 @@
+package com.techlabs.observer;
+
+import java.awt.event.ActionListener;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+
+public class WelcomeFrame extends JFrame{
+
+	private final JButton notifyBtn;
+
+	public WelcomeFrame() {
+
+		
+		
+		this.notifyBtn = new JButton("Notify");
+		
+	}
+
+	public void addListener(ActionListener actionListener) {
+		notifyBtn.addActionListener(actionListener);
+	}
+
+}

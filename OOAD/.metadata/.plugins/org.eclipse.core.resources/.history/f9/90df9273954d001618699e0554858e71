@@ -1,0 +1,7 @@
+package com.techlabs.lsv.refactored.test;
+
+public class TestRectangle {
+	public static void main(String[] args) {
+
+	}
+}

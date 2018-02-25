@@ -1,0 +1,14 @@
+package com.techlabs.ocp.violation;
+
+public class FixedDeposit {
+	private final int deposit;
+	private final int year;
+	private final FestivalType festival;
+
+	public FixedDeposit( int deposit,int year,FestivalType festival ) {
+		this.deposit = deposit;
+		this.year = year;
+		this.festival = festival;
+	}
+
+}

@@ -1,0 +1,6 @@
+INDEX VERSION 1.127+G:\techlabs\techlabs\coreJava\Design Pattern\Creational Pattern\.metadata\.plugins\org.eclipse.jdt.core
+3736421721.index
+807072134.index
+1736364964.index
+582290586.index
+3982338370.index

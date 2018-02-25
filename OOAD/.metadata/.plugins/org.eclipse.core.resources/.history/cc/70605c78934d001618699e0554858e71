@@ -1,0 +1,16 @@
+package com.techlabs.lsv.violation.test;
+
+import com.techlabs.lsv.violation.Rectangle;
+
+public class TestRectangle {
+	public static void main(String[] args) {
+
+		Rectangle x;
+		shouldNot_ChangeWidthWhenHeightIsChanged(x);
+	}
+
+	private static void shouldNot_ChangeWidthWhenHeightIsChanged(Rectangle x) {
+
+		
+	}
+}

@@ -1,0 +1,27 @@
+package com.techlabs.composition.test;
+
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.List;
+
+import com.techlabs.composition.LineItem;
+import com.techlabs.composition.Order;
+import com.techlabs.composition.Product;
+
+public class TestCompositon {
+
+	public static void main(String[] args) {
+
+		Product p1 = new Product(1, "Football", 100, 10); //90
+		Product p2 = new Product(2, "Volley ball", 300, 30); //210
+		Product p3 = new Product(3, "Cricket ball", 500, 5); // 475
+		List <LineItem> items = new ArrayList<LineItem>();
+		System.out.println(p2.calcDiscountCost());
+		items.add(new LineItem(1, 1, p1));
+		items.add(new LineItem(2, 1, p2));
+		items.add(new LineItem(3, 1, p3));
+		Order order = new Order(100, Calendar.getInstance().getTime(), items);
+//		System.out.println(order.checkOutPrice());
+	}
+
+}

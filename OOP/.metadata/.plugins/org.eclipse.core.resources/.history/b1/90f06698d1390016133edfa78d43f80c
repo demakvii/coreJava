@@ -1,0 +1,7 @@
+package com.techlabs.rectangle.test;
+
+public class RectangleTest {
+	public static void main(String[] argsStrings) {
+
+	}
+}

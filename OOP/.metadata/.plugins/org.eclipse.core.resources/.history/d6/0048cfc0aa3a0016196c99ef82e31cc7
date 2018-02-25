@@ -1,0 +1,30 @@
+package com.techlabs.account.test;
+
+import com.techlabs.account.Account;
+
+
+public class AccountTest {
+
+	public static void main(String[] args) {
+
+		currentAccount();
+		savingAccount();
+		printSlip(new Curr);
+	}
+
+	private static void printSlip(Account x) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private static void savingAccount() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private static void currentAccount() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

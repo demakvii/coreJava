@@ -1,0 +1,13 @@
+package com.techlabs.singleton;
+
+public class SingletonClass {
+
+	private SingletonClass() {
+
+	}
+
+	public static SingleClass createInstance() {
+		return new SingletonClass();
+	}
+
+}

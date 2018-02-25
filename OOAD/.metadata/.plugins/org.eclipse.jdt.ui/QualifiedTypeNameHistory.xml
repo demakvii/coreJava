@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="com.techlabs.composition.Order"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.techlabs.composition.Product"/>
+<fullyQualifiedTypeName name="com.techlabs.composition.LineItem"/>
+<fullyQualifiedTypeName name="com.techlabs.violation.Invoice"/>
+<fullyQualifiedTypeName name="com.techlabs.refactored.Invoice"/>
+<fullyQualifiedTypeName name="com.techlabs.refactored.InvoicePrint"/>
+<fullyQualifiedTypeName name="com.techlabs.ocp.violation.FestivalType"/>
+<fullyQualifiedTypeName name="com.techlabs.ocp.refactored.IFestivalRate"/>
+<fullyQualifiedTypeName name="com.techlabs.ocp.violation.FixedDeposit"/>
+<fullyQualifiedTypeName name="com.techlabs.ocp.refactored.FixedDeposit"/>
+<fullyQualifiedTypeName name="com.techlabs.ocp.refactored.DiwaleRate"/>
+<fullyQualifiedTypeName name="com.techlabs.lsv.violation.Square"/>
+<fullyQualifiedTypeName name="com.techlabs.lsv.refactored.IPolygon"/>
+<fullyQualifiedTypeName name="com.techlabs.lsv.violation.Rectangle"/>
+<fullyQualifiedTypeName name="com.techlabs.lsv.refactored.Square"/>
+</qualifiedTypeNameHistroy>

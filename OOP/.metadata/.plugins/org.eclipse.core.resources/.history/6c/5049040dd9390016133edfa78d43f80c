@@ -1,0 +1,33 @@
+package com.techlabs.man.test;
+
+public class ManTest {
+
+	public static void main(String[] args) {
+		
+		manTest();
+		boyTest();
+		manBoyTest();
+		polymorphismTest();
+	}
+
+	private static void polymorphismTest() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private static void manBoyTest() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private static void boyTest() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private static void manTest() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

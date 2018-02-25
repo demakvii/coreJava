@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;com.techlabs.man.test.ManTest.addTheGround(...)&apos; to &apos;atTheGround&apos;&#x0D;&#x0A;- Original project: &apos;manboy-polymorphism&apos;&#x0D;&#x0A;- Original element: &apos;com.techlabs.man.test.ManTest.addTheGround(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;com.techlabs.man.test.ManTest.atTheGround(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;addTheGround&apos;" flags="589826" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;com.techlabs.man.test{ManTest.java[ManTest~addTheGround~QMan;" name="atTheGround" references="true" stamp="1466752075910" version="1.0"/>
+</session>

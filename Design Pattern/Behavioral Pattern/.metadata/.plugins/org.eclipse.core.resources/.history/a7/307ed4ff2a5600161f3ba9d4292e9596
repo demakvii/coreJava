@@ -1,0 +1,12 @@
+package com.techlabs.account.test;
+
+import com.techlabs.account.Account;
+
+public class TestMain {
+
+	public static void main(String[] args) {
+
+		Account account = new Account(10, "Mayur", 1000);
+	}
+
+}

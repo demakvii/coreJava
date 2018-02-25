@@ -1,0 +1,13 @@
+package com.techlabs.composition;
+
+public class LineItem {
+	private final int id;
+	private final int qty;
+	private Product product;
+
+	public LineItem(int id,int qty,Product product) {
+		this.id = id;
+		this.qty = qty;
+		this.product = product;
+	}
+}

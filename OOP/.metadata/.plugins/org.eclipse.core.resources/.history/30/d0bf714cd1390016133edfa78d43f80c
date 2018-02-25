@@ -1,0 +1,11 @@
+package com.techlabs.rectangle;
+
+public class Circle extends Rectangle {
+
+	private int radius;
+
+	public void setRadius(int radius) {
+		this.radius = radius;
+	}
+	
+}

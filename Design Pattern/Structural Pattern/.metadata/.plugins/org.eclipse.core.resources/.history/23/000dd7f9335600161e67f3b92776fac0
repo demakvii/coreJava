@@ -1,0 +1,9 @@
+package com.techlabs.decorator.test;
+
+public class TestMain {
+
+	public static void main(String[] args) {
+
+	}
+
+}

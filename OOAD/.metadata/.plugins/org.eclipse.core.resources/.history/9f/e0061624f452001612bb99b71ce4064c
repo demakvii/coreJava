@@ -1,0 +1,15 @@
+package com.techlabs.singleton;
+
+public class SingletonClass {
+	
+	private static SingletonClass objl
+	
+	private SingletonClass() {
+
+	}
+
+	public static SingletonClass createInstance() {
+		return new SingletonClass();
+	}
+
+}

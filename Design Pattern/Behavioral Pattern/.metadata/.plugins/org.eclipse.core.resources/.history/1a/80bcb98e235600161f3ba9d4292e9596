@@ -1,0 +1,16 @@
+package com.techlabs.observer.test;
+
+import com.techlabs.observer.EmailNotificationHandler;
+import com.techlabs.observer.SMSNotificationHandler;
+import com.techlabs.observer.WelcomeFrame;
+
+public class TestMain {
+	public static void main(String[] args) {
+
+		WelcomeFrame welcomeFrame = new WelcomeFrame();
+		
+		welcomeFrame.addListener(new EmailNotificationHandler());
+		
+		welcomeFrame.addListener(new SMSNotificationHandler());
+	}
+}

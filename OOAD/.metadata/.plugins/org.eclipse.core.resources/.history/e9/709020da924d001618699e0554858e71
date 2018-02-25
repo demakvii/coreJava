@@ -1,0 +1,13 @@
+package com.techlabs.lsv.violation;
+
+public class Rectangle {
+
+	protected int height;
+	protected int width;
+	
+	public Rectangle(int width,int height) {
+		this.width =width;
+		this.height = height;
+	}
+	
+}

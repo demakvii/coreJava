@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.techlabs.rectangle.test.RectangleTest"/>
+<fullyQualifiedTypeName name="com.techlabs.student.PerformanceType"/>
+<fullyQualifiedTypeName name="com.techlabs.student.test.StudentTest"/>
+<fullyQualifiedTypeName name="com.techlabs.student.Student"/>
+<fullyQualifiedTypeName name="java.awt.print.Printable"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.techlabs.player.Player"/>
+<fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.techlabs.rectangle.Rectangle"/>
+<fullyQualifiedTypeName name="com.techlabs.rectangle.Circle"/>
+<fullyQualifiedTypeName name="com.techlabs.man.test.ManTest"/>
+<fullyQualifiedTypeName name="com.techlabs.man.Boy"/>
+<fullyQualifiedTypeName name="com.techlabs.man.Man"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.techlabs.account.Account"/>
+<fullyQualifiedTypeName name="com.techlabs.account.SavingAccount"/>
+<fullyQualifiedTypeName name="com.techlabs.account.CurrentAccount"/>
+</qualifiedTypeNameHistroy>

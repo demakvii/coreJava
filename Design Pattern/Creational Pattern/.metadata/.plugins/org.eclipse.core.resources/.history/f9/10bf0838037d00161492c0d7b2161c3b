@@ -1,0 +1,8 @@
+package com.techlabs.user;
+
+public class User {
+	private final String fName;
+	private final String lName;
+	private final int age;
+	private final String address;
+}

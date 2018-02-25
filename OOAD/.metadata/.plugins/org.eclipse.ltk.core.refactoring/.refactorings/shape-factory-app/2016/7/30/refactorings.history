@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.techlabs.factory.test.IShapeTests.java&apos; to &apos;ShapeFactoryTests.java&apos;&#x0D;&#x0A;- Original project: &apos;shape-factory-app&apos;&#x0D;&#x0A;- Original element: &apos;com.techlabs.factory.test.IShapeTests.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.techlabs.factory.test.ShapeFactoryTests.java&apos;" description="Rename compilation unit &apos;IShapeTests.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.techlabs.factory.test{IShapeTests.java" name="ShapeFactoryTests.java" references="false" stamp="1469256029074" version="1.0"/>
+</session>

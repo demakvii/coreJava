@@ -1,0 +1,7 @@
+package com.techlabs.account;
+
+public class Account {
+	private final int accNumber;
+	private final String name;
+	private float balance;
+}

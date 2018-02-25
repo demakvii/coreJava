@@ -1,0 +1,7 @@
+package com.techlabs.lsv.violation.test;
+
+public class TestRectangle {
+	public static void main(String[] args) {
+
+	}
+}

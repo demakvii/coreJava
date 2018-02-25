@@ -1,0 +1,13 @@
+package com.techlabs.composite;
+
+public class Group implements IGraphicObject {
+
+	List <IGraphicObject> list;
+	
+	@Override
+	public void draw() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

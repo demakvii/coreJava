@@ -1,0 +1,14 @@
+package com.techlabs.map;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class TestMap {
+
+	public static void main(String[] args) {
+		
+		Map <Integer,Integer> numbers;
+		numbers =  new HashMap<Integer, Integer>();
+	}
+
+}

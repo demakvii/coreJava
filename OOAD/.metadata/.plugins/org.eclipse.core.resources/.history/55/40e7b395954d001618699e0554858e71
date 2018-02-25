@@ -1,0 +1,14 @@
+package com.techlabs.lsv.refactored.test;
+
+import com.techlabs.lsv.refactored.IPolygon;
+import com.techlabs.lsv.violation.Rectangle;
+
+public class TestRectangle {
+	public static void main(String[] args) {
+
+	}
+	private static void shouldNot_ChangeWidthWhenHeightIsChanged(IPolygon x) {
+		
+	}
+
+}

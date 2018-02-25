@@ -1,0 +1,12 @@
+package com.techlabs.user.test;
+
+import com.techlabs.user.User;
+
+public class TestMain {
+	public static void main(String[] args) {
+		//no age
+		User user2 = new User.UserBuilder("Mayur", "Kalekar")
+				.address("Andheri").build();
+		System.out.println(user1);
+	}
+}

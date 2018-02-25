@@ -1,0 +1,7 @@
+package com.techlabs.rectangle;
+
+public class Circle extends Rectangle {
+
+	private int radius;
+	
+}

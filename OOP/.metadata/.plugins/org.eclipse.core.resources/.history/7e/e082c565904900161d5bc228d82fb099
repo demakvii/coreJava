@@ -1,0 +1,9 @@
+package com.techlabs.map;
+
+public class TestMap {
+
+	public static void main(String[] args) {
+
+	}
+
+}

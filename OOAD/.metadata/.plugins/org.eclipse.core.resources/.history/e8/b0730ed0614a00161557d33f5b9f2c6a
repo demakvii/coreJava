@@ -1,0 +1,10 @@
+package com.techlabs.composition.test;
+
+public class TestCompositon {
+
+	public static void main(String[] args) {
+
+		
+	}
+
+}
